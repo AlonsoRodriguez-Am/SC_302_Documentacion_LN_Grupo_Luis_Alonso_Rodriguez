@@ -1,0 +1,2 @@
+# SC_302_Documentacion_LN_Grupo_Luis_Alonso_Rodriguez
+Repositorio entregable semana 3
