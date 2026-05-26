@@ -1,2 +1,8 @@
-# SC_302_Documentacion_LN_Grupo_Luis_Alonso_Rodriguez
+# SC\_302\_Documentacion\_LN\_Grupo\_Luis\_Alonso\_Rodriguez
+
 Repositorio entregable semana 3
+
+
+
+Esta es mi primera práctica con GitHub.
+
